@@ -98,6 +98,5 @@ Para rodar os programas, você precisará de:
 6. Execute o programa com o comando:
 ```
 python name_file.py
-
 ```
 7. Substitua name_file.py pelo nome do arquivo que você deseja executar.
